@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+Mission: To promote cross-cultural understanding and celebrate global diversity at Allegheny College.

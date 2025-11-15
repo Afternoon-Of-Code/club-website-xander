@@ -1,6 +1,6 @@
 ---js
 const eleventyNavigation = {
-	key: "Calendar",
+	key: "Events",
 	order: 4
 };
 const calendarUrl = "c_66e11d43417d0a41cd0c3a36238795af34cdf47bc3bf56fcb53034b109793a60%40group.calendar.google.com";
